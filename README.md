@@ -1,4 +1,4 @@
 # Blog
 
 
-go
+go test
